@@ -12,3 +12,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 4th May
 - [Longest Palindrome (Easy)](https://leetcode.com/problems/longest-palindrome/description/?envType=daily-question&envId=2024-06-04)
+
+## 5th May
+- [Find Common Characters (Easy)](https://leetcode.com/problems/find-common-characters/description/?envType=daily-question&envId=2024-06-05)
