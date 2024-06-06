@@ -15,3 +15,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 5th May
 - [Find Common Characters (Easy)](https://leetcode.com/problems/find-common-characters/description/?envType=daily-question&envId=2024-06-05)
+
+## 6th May
+- [Hand of Straights (Medium)](https://leetcode.com/problems/hand-of-straights/description/?envType=daily-question&envId=2024-06-06)
