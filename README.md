@@ -21,3 +21,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 7th May
 - [Replace Words (Medium)](https://leetcode.com/problems/replace-words/description/?envType=daily-question&envId=2024-06-07)
+
+## 8th May
+- [Continuous Subarray Sum (Medium)](https://leetcode.com/problems/continuous-subarray-sum/submissions/1281157819/?envType=daily-question&envId=2024-06-08)
