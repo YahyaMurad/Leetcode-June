@@ -24,3 +24,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 8th May
 - [Continuous Subarray Sum (Medium)](https://leetcode.com/problems/continuous-subarray-sum/submissions/1281157819/?envType=daily-question&envId=2024-06-08)
+
+## 9th May
+- [Subarray Sums Divisible by K (Medium)](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/?envType=daily-question&envId=2024-06-09)
