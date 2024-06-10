@@ -27,3 +27,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 9th May
 - [Subarray Sums Divisible by K (Medium)](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/?envType=daily-question&envId=2024-06-09)
+
+## 10th May
+- [Height Checker (Easy)](https://leetcode.com/problems/height-checker/description/?envType=daily-question&envId=2024-06-10)
