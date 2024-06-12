@@ -33,3 +33,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 11th May
 - [Relative Sort Array (Easy)](https://leetcode.com/problems/relative-sort-array/submissions/1284406645/?envType=daily-question&envId=2024-06-11)
+
+## 12th May
+- [Sort Colors (Medium)](https://leetcode.com/problems/sort-colors/?envType=daily-question&envId=2024-06-12)
