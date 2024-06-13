@@ -36,3 +36,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 12th May
 - [Sort Colors (Medium)](https://leetcode.com/problems/sort-colors/?envType=daily-question&envId=2024-06-12)
+
+## 13th May
+- [Minimum Number of Moves to Seat Everyone (Easy)](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/?envType=daily-question&envId=2024-06-13)
