@@ -39,3 +39,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 13th May
 - [Minimum Number of Moves to Seat Everyone (Easy)](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/?envType=daily-question&envId=2024-06-13)
+
+## 14th May
+- [Minimum Increment to Make Array Unique (Medium)](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/?envType=daily-question&envId=2024-06-14)
