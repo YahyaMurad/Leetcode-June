@@ -42,3 +42,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 14th May
 - [Minimum Increment to Make Array Unique (Medium)](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/?envType=daily-question&envId=2024-06-14)
+
+## 15th May
+- [IPO (Hard)](https://leetcode.com/problems/ipo/?envType=daily-question&envId=2024-06-15)
