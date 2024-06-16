@@ -45,3 +45,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 15th May
 - [IPO (Hard)](https://leetcode.com/problems/ipo/?envType=daily-question&envId=2024-06-15)
+
+## 16th May
+- [Patching Array (Hard)](https://leetcode.com/problems/patching-array/?envType=daily-question&envId=2024-06-16)
