@@ -48,3 +48,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 16th May
 - [Patching Array (Hard)](https://leetcode.com/problems/patching-array/?envType=daily-question&envId=2024-06-16)
+
+## 17th May
+- [Sum of Square Numbers (Medium)](https://leetcode.com/problems/sum-of-square-numbers/description/?envType=daily-question&envId=2024-06-17)
