@@ -51,3 +51,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 17th May
 - [Sum of Square Numbers (Medium)](https://leetcode.com/problems/sum-of-square-numbers/description/?envType=daily-question&envId=2024-06-17)
+
+## 18th May
+- [Most Profit Assigning Work (Medium)](https://leetcode.com/problems/most-profit-assigning-work/description/?envType=daily-question&envId=2024-06-18)
