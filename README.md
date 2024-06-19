@@ -54,3 +54,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 18th May
 - [Most Profit Assigning Work (Medium)](https://leetcode.com/problems/most-profit-assigning-work/description/?envType=daily-question&envId=2024-06-18)
+
+## 19th May
+- [Minimum Number of Days to Make m Bouquets (Medium)](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/?envType=daily-question&envId=2024-06-18)
