@@ -57,3 +57,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 19th May
 - [Minimum Number of Days to Make m Bouquets (Medium)](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/?envType=daily-question&envId=2024-06-18)
+
+## 20th May
+- [Magnetic Force Between Two Balls (Medium)](https://leetcode.com/problems/magnetic-force-between-two-balls/description/?envType=daily-question&envId=2024-06-20)
