@@ -60,3 +60,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 20th May
 - [Magnetic Force Between Two Balls (Medium)](https://leetcode.com/problems/magnetic-force-between-two-balls/description/?envType=daily-question&envId=2024-06-20)
+
+## 21st June
+- [Grumpy Bookstore Owner (Medium)](https://leetcode.com/problems/grumpy-bookstore-owner/description/?envType=daily-question&envId=2024-06-21)
