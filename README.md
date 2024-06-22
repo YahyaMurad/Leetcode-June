@@ -63,3 +63,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 21st June
 - [Grumpy Bookstore Owner (Medium)](https://leetcode.com/problems/grumpy-bookstore-owner/description/?envType=daily-question&envId=2024-06-21)
+
+## 22nd June
+- [Count Number of Nice Subarrays (Medium)](https://leetcode.com/problems/count-number-of-nice-subarrays/description/?envType=daily-question&envId=2024-06-22)
