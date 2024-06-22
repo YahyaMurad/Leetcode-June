@@ -66,3 +66,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 22nd June
 - [Count Number of Nice Subarrays (Medium)](https://leetcode.com/problems/count-number-of-nice-subarrays/description/?envType=daily-question&envId=2024-06-22)
+
+## 23rd June
+- [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit (Medium)](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/?envType=daily-question&envId=2024-06-23)
