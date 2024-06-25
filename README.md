@@ -72,3 +72,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 24th June
 - [Minimum Number of K Consecutive Bit Flips (Hard)](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/description/?envType=daily-question&envId=2024-06-24)
+
+## 25th June
+- [Binary Search Tree to Greater Sum Tree (Medium)](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/?envType=daily-question&envId=2024-06-25)
