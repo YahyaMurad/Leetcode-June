@@ -75,3 +75,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 25th June
 - [Binary Search Tree to Greater Sum Tree (Medium)](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/?envType=daily-question&envId=2024-06-25)
+
+## 26th June
+- [Balance a Binary Search Tree (Medium)](https://leetcode.com/problems/balance-a-binary-search-tree/?envType=daily-question&envId=2024-06-26)
